@@ -1,10 +1,10 @@
 # Dusk Improvement Proposals (DIPs)
 
-Welcome to the official repository for Dusk Improvement Proposals (DIPs). This platform serves as a centralized hub for community-driven proposals aiming to refine, upgrade, and innovate within the Dusk Network ecosystem.
+Welcome to the official repository for Dusk Improvement Proposals (DIPs). This platform serves as a hub for community-driven proposals aiming to refine, upgrade, and innovate within the Dusk Network ecosystem.
 
 ## What is a DIP?
 
-A Dusk Improvement Proposal (DIP) is a formal document that proposes a new feature, standard, or protocol adjustment within the Dusk Network. DIPs are the primary mechanism for proposing new features, collecting community input on an issue, and documenting the design decisions that have gone into the Dusk Network. They are meant to be the source of truth for Dusk Network improvements, serving both as a historical document and a detailed explanation of the feature and its purpose.
+A Dusk Improvement Proposal (DIP) is a formal document that proposes a new feature, standard, or protocol adjustment within the Dusk Network. DIPs are the primary mechanism for proposing new features, collecting community input on an issue, and documenting the design decisions that have gone into the Dusk Network. They are meant to be the source of truth for Dusk protocol improvements, serving both as a historical document and a detailed explanation of the feature and its purpose.
 
 ## Purpose
 
@@ -21,7 +21,7 @@ The DIP repository is intended to provide a structured process for making substa
 - **Review**: The DIP is undergoing community review and feedback.
 - **Last Call**: The DIP is nearing finalization; this is the final review window for the community.
 - **Accepted**: The DIP has been accepted and is either awaiting implementation or has been implemented.
-- **Final**: The DIP has been implemented and is now a part of the Dusk Network protocol.
+- **Final**: The DIP has been implemented and is now a part of the Dusk protocol.
 
 ## How to Propose a DIP
 
@@ -29,7 +29,7 @@ The DIP repository is intended to provide a structured process for making substa
 
 2. **Draft Your Proposal**: Following the [DIP Template](https://github.com/dusk-network/dips/issues/1) specification, the [template structure for a DIP follows](#dip-structure). Your DIP should provide a concise specification of the feature and a rationale for the feature.
 
-3. **Submit Your DIP**: Fork the repository, add your DIP draft to the `dips` directory using the naming convention `dip-<number>.md`, where `<number>` is your proposed DIP number. Then, submit a pull request (PR) against the main branch of the Dusk Network DIPs repository.
+3. **Submit Your DIP**: Fork the repository, add your DIP draft to the `dips` directory using the naming convention `dip-<number>.md`, where `<number>` is your proposed DIP number. Then, submit a pull request (PR) against the main branch of the Dusk DIPs repository.
 
 4. **Discussion and Review**: The DIP will undergo a review and discussion phase where the community and DIP editors will provide feedback. Be prepared to revise your draft in response to feedback.
 
