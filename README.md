@@ -71,6 +71,7 @@ The Dusk Improvement Proposal (DIP) process is designed to provide a transparent
 Additionally, proposals can be transitioned to a **Stagnant** state if they are not actively being developed or considered. A proposal might also be **Dead** by the author(s) if it is no longer pursued. A DIP can also exist in a **Iterating** state as a document that is updated over time without needing a new DIP number.
 
 Below is a diagram that illustrates the DIP workflow:
+
 ![DIP-diagram](https://github.com/dusk-network/dips/blob/main/dip-gov-diag.png)
 
 For more information on how to contribute to the DIP process, please see the [CONTRIBUTING.md](https://github.com/dusk-network/.github/blob/main/.github/CONTRIBUTING.md) file.
