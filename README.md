@@ -39,7 +39,7 @@ The DIP repository is intended to provide a structured process for making substa
 
 Each Dusk Improvement Proposal (DIP) must adhere to the following structure so as to ensure clarity and consistency across proposals.
 
-1. **Preamble**
+1. **Preamble**:
     - **DIP Number:** (To be assigned upon acceptance)
     - **Title**
     - **Author(s):** Contact information and GitHub usernames
@@ -47,35 +47,16 @@ Each Dusk Improvement Proposal (DIP) must adhere to the following structure so a
     - **Category/Type:** (Core, Standards, Governance, etc.)
     - **Creation Date**
 
-2. **Abstract**
-    - A concise technical summary of the proposal.
-
-3. **Motivation**
-    - Describes the issue being addressed and why the proposal is necessary.
-
-4. **Technical Specification**
-    - Detailed description of the proposed changes, including protocol changes, data structures, API alterations, and cryptographic considerations.
-
-5. **Rationale**
-    - Discussion on the decision-making process and trade-offs considered.
-
-6. **Backwards Compatibility**
-    - Analysis of how the proposal interacts with existing features or might affect backward compatibility.
-
-7. **Test Cases**
-    - Practical examples and test cases for validating the proposed changes.
-
-8. **Implementation**
-    - Reference to the implementation code; this may include links to PRs in external repositories.
-
-9. **Security Considerations**
-    - Assessment of potential security implications and how they are addressed.
-
-10. **References**
-    - Links to any related documents, discussions, or other relevant materials.
-
-11. **Updates (Optional)**
-    - Documenting significant changes or updates to the proposal post-acceptance.
+2. **Abstract**: A concise technical summary of the proposal.
+3. **Motivation**: Describes the issue being addressed and why the proposal is necessary.
+4. **Technical Specification**: Detailed description of the proposed changes, including protocol changes, data structures, API alterations, and cryptographic considerations.
+5. **Rationale**: Discussion on the decision-making process and trade-offs considered.
+6. **Backwards Compatibility**: Analysis of how the proposal interacts with existing features or might affect backward compatibility.
+7. **Test Cases**: Practical examples and test cases for validating the proposed changes.
+8. **Implementation**: Reference to the implementation code; this may include links to PRs in external repositories.
+9. **Security Considerations**: Assessment of potential security implications and how they are addressed.
+10. **References**: Links to any related documents, discussions, or other relevant materials.
+11. **Updates (Optional)**: Documenting significant changes or updates to the proposal post-acceptance.
 
 ## DIP Workflow
 
