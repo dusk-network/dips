@@ -60,7 +60,7 @@ Additionally, proposals can be transitioned to a **Stagnant** state if they are 
 
 Below is a diagram that illustrates the DIP workflow:
 
-![DIP-diagram](https://github.com/dusk-network/dips/blob/main/dip-gov-diag.png)
+![DIP-diagram](dip-gov-diag.png)
 
 For more information on how to contribute to the DIP process, please see the [CONTRIBUTING.md](https://github.com/dusk-network/.github/blob/main/.github/CONTRIBUTING.md) file.
 
